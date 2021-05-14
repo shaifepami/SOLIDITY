@@ -1,5 +1,8 @@
 ![image](https://user-images.githubusercontent.com/65314799/98048902-3f877600-1df4-11eb-9dd9-d6caf94a7259.png)
 
+![contract](Images/smart-contract.png)
+
+
 
 # Profit_splitter_contract
 
